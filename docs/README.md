@@ -21,6 +21,8 @@
     </tr>
   </tbody>
 </table>
+<br />
+<br />
 
 ## 各種アカウント
 
@@ -31,6 +33,8 @@
   <a href="hhttps://www.credly.com/users/kei-yonekawa/badges" target="_blank"><img alt="credly" src="https://img.shields.io/badge/-credly%20badges-orange?&style=flat-square" /></a>
   <a href="https://speakerdeck.com/keiyonekawa0614" target="_blank"><img alt="SpeakerDeck" src="https://img.shields.io/badge/keiyonekawa0614-009287.svg?&style=flat-square&logo=SpeakerDeck&logoColor=white" /></a>
 </p>
+<br />
+<br />
 
 ## 保有スキル
 
@@ -39,6 +43,8 @@
 * モダンフロントエンドの技術を用いた開発経験(Nuxt.js, Vue.js)
 * RDBMSを利用したアプリケーション開発経験、テーブル設計経験
 * GitHubでのプルリクエストのレビュー経験
+<br />
+<br />
 
 ## 技術スタック
 
@@ -79,6 +85,8 @@
   <img alt="Confluence" src="https://img.shields.io/badge/-Confluence-172B4D.svg?logo=Confluence&style=flat-square&logoColor=white">
   <img alt="Jira" src="https://img.shields.io/badge/-Jira-0052CA.svg?logo=Jira&style=flat-square&logoColor=white">
 </p>
+<br />
+<br />
 
 ## 職務経歴詳細
 
@@ -329,6 +337,8 @@
     </tr>
   </tbody>
 </table>
+<br />
+<br />
 
 ## 業務外活動
 
