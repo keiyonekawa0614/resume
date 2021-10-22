@@ -4,20 +4,20 @@
 <table>
   <tbody>
     <tr>
-      <td style="text-align: left">名前</td>
-      <td style="text-align: left">米川 桂(Yonekawa Kei)</td>
+      <td>名前</td>
+      <td>米川 桂(Yonekawa Kei)</td>
     </tr>
     <tr>
-      <td style="text-align: left">生年月日</td>
-      <td style="text-align: left">1991/06/14</td>
+      <td>生年月日</td>
+      <td>1991/06/14</td>
     </tr>
     <tr>
-      <td style="text-align: left">居住地</td>
-      <td style="text-align: left">東京都</td>
+      <td>居住地</td>
+      <td>東京都</td>
     </tr>
     <tr>
-      <td style="text-align: left">学歴</td>
-      <td style="text-align: left">帝京大学理工学部情報科学科　通信教育課程　在学中</td>
+      <td>学歴</td>
+      <td>帝京大学理工学部情報科学科　通信教育課程　在学中</td>
     </tr>
   </tbody>
 </table>
@@ -95,28 +95,28 @@
 <table>
   <tbody>
     <tr>
-      <td style="text-align: left">期間</td>
-      <td style="text-align: left">2021/10~現在</td>
+      <td>期間</td>
+      <td>2021/10~現在</td>
     </tr>
     <tr>
-      <td style="text-align: left">雇用形態</td>
-      <td style="text-align: left">業務委託</td>
+      <td>雇用形態</td>
+      <td>業務委託</td>
     </tr>
     <tr>
-      <td style="text-align: left">概要</td>
-      <td style="text-align: left">-</td>
+      <td>概要</td>
+      <td>-</td>
     </tr>
     <tr>
-      <td style="text-align: left">プロジェクト規模</td>
-      <td style="text-align: left">-</td>
+      <td>プロジェクト規模</td>
+      <td>-</td>
     </tr>
     <tr>
-      <td style="text-align: left">役割</td>
-      <td style="text-align: left">-</td>
+      <td>役割</td>
+      <td>-</td>
     </tr>
     <tr>
-      <td style="text-align: left">プロジェクト詳細</td>
-      <td style="text-align: left">-</td>
+      <td>プロジェクト詳細</td>
+      <td>-</td>
     </tr>
   </tbody>
 </table>
@@ -126,28 +126,28 @@
 <table>
   <tbody>
     <tr>
-      <td style="text-align: left">期間</td>
-      <td style="text-align: left">2020/06~2021/09</td>
+      <td>期間</td>
+      <td>2020/06~2021/09</td>
     </tr>
     <tr>
-      <td style="text-align: left">雇用形態</td>
-      <td style="text-align: left">業務委託</td>
+      <td>雇用形態</td>
+      <td>業務委託</td>
     </tr>
     <tr>
-      <td style="text-align: left">概要</td>
-      <td style="text-align: left">-</td>
+      <td>概要</td>
+      <td>-</td>
     </tr>
     <tr>
-      <td style="text-align: left">プロジェクト規模</td>
-      <td style="text-align: left">-</td>
+      <td>プロジェクト規模</td>
+      <td>-</td>
     </tr>
     <tr>
-      <td style="text-align: left">役割</td>
-      <td style="text-align: left">-</td>
+      <td>役割</td>
+      <td>-</td>
     </tr>
     <tr>
-      <td style="text-align: left">プロジェクト詳細</td>
-      <td style="text-align: left">-</td>
+      <td>プロジェクト詳細</td>
+      <td>-</td>
     </tr>
   </tbody>
 </table>
@@ -157,28 +157,28 @@
 <table>
   <tbody>
     <tr>
-      <td style="text-align: left">期間</td>
-      <td style="text-align: left">2019/10〜現在</td>
+      <td>期間</td>
+      <td>2019/10〜現在</td>
     </tr>
     <tr>
-      <td style="text-align: left">雇用形態</td>
-      <td style="text-align: left">業務委託</td>
+      <td>雇用形態</td>
+      <td>業務委託</td>
     </tr>
     <tr>
-      <td style="text-align: left">概要</td>
-      <td style="text-align: left">-</td>
+      <td>概要</td>
+      <td>-</td>
     </tr>
     <tr>
-      <td style="text-align: left">プロジェクト規模</td>
-      <td style="text-align: left">-</td>
+      <td>プロジェクト規模</td>
+      <td>-</td>
     </tr>
     <tr>
-      <td style="text-align: left">役割</td>
-      <td style="text-align: left">-</td>
+      <td>役割</td>
+      <td>-</td>
     </tr>
     <tr>
-      <td style="text-align: left">プロジェクト詳細</td>
-      <td style="text-align: left">-</td>
+      <td>プロジェクト詳細</td>
+      <td>-</td>
     </tr>
   </tbody>
 </table>
@@ -188,28 +188,28 @@
 <table>
   <tbody>
     <tr>
-      <td style="text-align: left">期間</td>
-      <td style="text-align: left">2019/06〜2020/03</td>
+      <td>期間</td>
+      <td>2019/06〜2020/03</td>
     </tr>
     <tr>
-      <td style="text-align: left">雇用形態</td>
-      <td style="text-align: left">業務委託</td>
+      <td>雇用形態</td>
+      <td>業務委託</td>
     </tr>
     <tr>
-      <td style="text-align: left">概要</td>
-      <td style="text-align: left">-</td>
+      <td>概要</td>
+      <td>-</td>
     </tr>
     <tr>
-      <td style="text-align: left">プロジェクト規模</td>
-      <td style="text-align: left">-</td>
+      <td>プロジェクト規模</td>
+      <td>-</td>
     </tr>
     <tr>
-      <td style="text-align: left">役割</td>
-      <td style="text-align: left">-</td>
+      <td>役割</td>
+      <td>-</td>
     </tr>
     <tr>
-      <td style="text-align: left">プロジェクト詳細</td>
-      <td style="text-align: left">-</td>
+      <td>プロジェクト詳細</td>
+      <td>-</td>
     </tr>
   </tbody>
 </table>
@@ -219,28 +219,28 @@
 <table>
   <tbody>
     <tr>
-      <td style="text-align: left">期間</td>
-      <td style="text-align: left">2018/12〜2019/05</td>
+      <td>期間</td>
+      <td>2018/12〜2019/05</td>
     </tr>
     <tr>
-      <td style="text-align: left">雇用形態</td>
-      <td style="text-align: left">業務委託</td>
+      <td>雇用形態</td>
+      <td>業務委託</td>
     </tr>
     <tr>
-      <td style="text-align: left">概要</td>
-      <td style="text-align: left">-</td>
+      <td>概要</td>
+      <td>-</td>
     </tr>
     <tr>
-      <td style="text-align: left">プロジェクト規模</td>
-      <td style="text-align: left">-</td>
+      <td>プロジェクト規模</td>
+      <td>-</td>
     </tr>
     <tr>
-      <td style="text-align: left">役割</td>
-      <td style="text-align: left">-</td>
+      <td>役割</td>
+      <td>-</td>
     </tr>
     <tr>
-      <td style="text-align: left">プロジェクト詳細</td>
-      <td style="text-align: left">-</td>
+      <td>プロジェクト詳細</td>
+      <td>-</td>
     </tr>
   </tbody>
 </table>
@@ -250,28 +250,28 @@
 <table>
   <tbody>
     <tr>
-      <td style="text-align: left">期間</td>
-      <td style="text-align: left">2018/04〜2019/09</td>
+      <td>期間</td>
+      <td>2018/04〜2019/09</td>
     </tr>
     <tr>
-      <td style="text-align: left">雇用形態</td>
-      <td style="text-align: left">正社員</td>
+      <td>雇用形態</td>
+      <td>正社員</td>
     </tr>
     <tr>
-      <td style="text-align: left">概要</td>
-      <td style="text-align: left">-</td>
+      <td>概要</td>
+      <td>-</td>
     </tr>
     <tr>
-      <td style="text-align: left">プロジェクト規模</td>
-      <td style="text-align: left">-</td>
+      <td>プロジェクト規模</td>
+      <td>-</td>
     </tr>
     <tr>
-      <td style="text-align: left">役割</td>
-      <td style="text-align: left">-</td>
+      <td>役割</td>
+      <td>-</td>
     </tr>
     <tr>
-      <td style="text-align: left">プロジェクト詳細</td>
-      <td style="text-align: left">-</td>
+      <td>プロジェクト詳細</td>
+      <td>-</td>
     </tr>
   </tbody>
 </table>
@@ -281,28 +281,28 @@
 <table>
   <tbody>
     <tr>
-      <td style="text-align: left">期間</td>
-      <td style="text-align: left">2016/04〜2018/03</td>
+      <td>期間</td>
+      <td>2016/04〜2018/03</td>
     </tr>
     <tr>
-      <td style="text-align: left">雇用形態</td>
-      <td style="text-align: left">正社員</td>
+      <td>雇用形態</td>
+      <td>正社員</td>
     </tr>
     <tr>
-      <td style="text-align: left">概要</td>
-      <td style="text-align: left">-</td>
+      <td>概要</td>
+      <td>-</td>
     </tr>
     <tr>
-      <td style="text-align: left">プロジェクト規模</td>
-      <td style="text-align: left">-</td>
+      <td>プロジェクト規模</td>
+      <td>-</td>
     </tr>
     <tr>
-      <td style="text-align: left">役割</td>
-      <td style="text-align: left">-</td>
+      <td>役割</td>
+      <td>-</td>
     </tr>
     <tr>
-      <td style="text-align: left">プロジェクト詳細</td>
-      <td style="text-align: left">-</td>
+      <td>プロジェクト詳細</td>
+      <td>-</td>
     </tr>
   </tbody>
 </table>
@@ -312,28 +312,28 @@
 <table>
   <tbody>
     <tr>
-      <td style="text-align: left">期間</td>
-      <td style="text-align: left">2014/04〜2016/03</td>
+      <td>期間</td>
+      <td>2014/04〜2016/03</td>
     </tr>
     <tr>
-      <td style="text-align: left">雇用形態</td>
-      <td style="text-align: left">正社員</td>
+      <td>雇用形態</td>
+      <td>正社員</td>
     </tr>
     <tr>
-      <td style="text-align: left">概要</td>
-      <td style="text-align: left">-</td>
+      <td>概要</td>
+      <td>-</td>
     </tr>
     <tr>
-      <td style="text-align: left">プロジェクト規模</td>
-      <td style="text-align: left">-</td>
+      <td>プロジェクト規模</td>
+      <td>-</td>
     </tr>
     <tr>
-      <td style="text-align: left">役割</td>
-      <td style="text-align: left">-</td>
+      <td>役割</td>
+      <td>-</td>
     </tr>
     <tr>
-      <td style="text-align: left">プロジェクト詳細</td>
-      <td style="text-align: left">-</td>
+      <td>プロジェクト詳細</td>
+      <td>-</td>
     </tr>
   </tbody>
 </table>
