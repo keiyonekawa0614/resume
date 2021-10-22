@@ -22,7 +22,6 @@
   </tbody>
 </table>
 <br />
-<br />
 
 ## 各種アカウント
 
@@ -34,7 +33,7 @@
   <a href="https://speakerdeck.com/keiyonekawa0614" target="_blank"><img alt="SpeakerDeck" src="https://img.shields.io/badge/keiyonekawa0614-009287.svg?&style=flat-square&logo=SpeakerDeck&logoColor=white" /></a>
 </p>
 <br />
-<br />
+
 
 ## 保有スキル
 
@@ -44,11 +43,11 @@
 * RDBMSを利用したアプリケーション開発経験、テーブル設計経験
 * GitHubでのプルリクエストのレビュー経験
 <br />
-<br />
+
 
 ## 技術スタック
 
-### プログラミング言語
+#### プログラミング言語
 <p>
   <img alt="PHP" src="https://img.shields.io/badge/-PHP-ccc.svg?logo=php&style=flat-square">
   <img alt="Ruby" src="https://img.shields.io/badge/-Ruby-CC342D?style=flat-square&logo=Ruby&logoColor=white" />
@@ -59,7 +58,7 @@
 </p>
 
 
-### フレームワーク
+#### フレームワーク
 <p>
   <img alt="Laravel" src="https://img.shields.io/badge/-Laravel-FF2D20.svg?logo=Laravel&style=flat-square&logoColor=white" />
   <img alt="Nuxtjs" src="https://img.shields.io/badge/-Nuxt.js-00DC82.svg?logo=Nuxt.js&style=flat-square&logoColor=white" />
@@ -70,13 +69,13 @@
   <img alt="jQuery" src="https://img.shields.io/badge/-jQuery-0769AD.svg?logo=jquery&style=flat-square">
 </p>
 
-### データベース
+#### データベース
 <p>
   <img alt="MySQL" src="https://img.shields.io/badge/-MySQL-4479A1.svg?logo=MySQL&style=flat-square&logoColor=white">
   <img alt="postgresql" src="https://img.shields.io/badge/-PostgreSQL-336791.svg?logo=postgresql&style=flat-square&logoColor=white">
 </p>
 
-### クラウド・エディタ・ツール他
+#### クラウド・エディタ・ツール他
 <p>
   <img alt="AWS" src="https://img.shields.io/badge/-Amazon%20AWS-232F3E.svg?logo=amazon-aws&style=flat-square">
   <img alt="Docker" src="https://img.shields.io/badge/-Docker-46a2f1?style=flat-square&logo=docker&logoColor=white" />
@@ -86,7 +85,7 @@
   <img alt="Jira" src="https://img.shields.io/badge/-Jira-0052CA.svg?logo=Jira&style=flat-square&logoColor=white">
 </p>
 <br />
-<br />
+
 
 ## 職務経歴詳細
 
