@@ -70,92 +70,251 @@
 
 ### 株式会社カンリー
 
-|              |                   |
-|:-------------|:------------------|
-| 期間       　    | 2021/10~現在    |
-| 雇用形態　　　     | 業務委託        |
-| 概要   |      -          |
-| プロジェクト規模   |        -        |
-| 役割　　　　　     |      -          |
-| プロジェクト詳細　　|      -          |
-
+<table>
+  <tbody>
+    <tr>
+      <td style="text-align: left">期間</td>
+      <td style="text-align: left">2021/10~現在</td>
+    </tr>
+    <tr>
+      <td style="text-align: left">雇用形態</td>
+      <td style="text-align: left">業務委託</td>
+    </tr>
+    <tr>
+      <td style="text-align: left">概要</td>
+      <td style="text-align: left">-</td>
+    </tr>
+    <tr>
+      <td style="text-align: left">プロジェクト規模</td>
+      <td style="text-align: left">-</td>
+    </tr>
+    <tr>
+      <td style="text-align: left">役割</td>
+      <td style="text-align: left">-</td>
+    </tr>
+    <tr>
+      <td style="text-align: left">プロジェクト詳細</td>
+      <td style="text-align: left">-</td>
+    </tr>
+  </tbody>
+</table>
 
 ### 株式会社BYK
 
-|              |                   |
-|:-------------|:------------------|
-| 期間       　    | 2020/06~2021/09    |
-| 雇用形態　　　     | 業務委託        |
-| 概要   |      -          |
-| プロジェクト規模   |        -        |
-| 役割　　　　　     |      -          |
-| プロジェクト詳細　　|      -          |
+<table>
+  <tbody>
+    <tr>
+      <td style="text-align: left">期間</td>
+      <td style="text-align: left">2020/06~2021/09</td>
+    </tr>
+    <tr>
+      <td style="text-align: left">雇用形態</td>
+      <td style="text-align: left">業務委託</td>
+    </tr>
+    <tr>
+      <td style="text-align: left">概要</td>
+      <td style="text-align: left">-</td>
+    </tr>
+    <tr>
+      <td style="text-align: left">プロジェクト規模</td>
+      <td style="text-align: left">-</td>
+    </tr>
+    <tr>
+      <td style="text-align: left">役割</td>
+      <td style="text-align: left">-</td>
+    </tr>
+    <tr>
+      <td style="text-align: left">プロジェクト詳細</td>
+      <td style="text-align: left">-</td>
+    </tr>
+  </tbody>
+</table>
 
 ### 株式会社LIFULL
 
-|              |                   |
-|:-------------|:------------------|
-| 期間       　    | 2019/10〜現在   |
-| 雇用形態　　　     | 業務委託        |
-| 概要   |        -        |
-| プロジェクト規模   |   -             |
-| 役割　　　　　     |    -            |
-| プロジェクト詳細　　|     -           |
+<table>
+  <tbody>
+    <tr>
+      <td style="text-align: left">期間</td>
+      <td style="text-align: left">2019/10〜現在</td>
+    </tr>
+    <tr>
+      <td style="text-align: left">雇用形態</td>
+      <td style="text-align: left">業務委託</td>
+    </tr>
+    <tr>
+      <td style="text-align: left">概要</td>
+      <td style="text-align: left">-</td>
+    </tr>
+    <tr>
+      <td style="text-align: left">プロジェクト規模</td>
+      <td style="text-align: left">-</td>
+    </tr>
+    <tr>
+      <td style="text-align: left">役割</td>
+      <td style="text-align: left">-</td>
+    </tr>
+    <tr>
+      <td style="text-align: left">プロジェクト詳細</td>
+      <td style="text-align: left">-</td>
+    </tr>
+  </tbody>
+</table>
 
 ### 株式会社ASCAST
 
-|              |                   |
-|:-------------|:------------------|
-| 期間       　    | 2019/06〜2020/03   |
-| 雇用形態　　　     | 業務委託        |
-| 概要   |        -        |
-| プロジェクト規模   |   -             |
-| 役割　　　　　     |    -            |
-| プロジェクト詳細　　|     -           |
+<table>
+  <tbody>
+    <tr>
+      <td style="text-align: left">期間</td>
+      <td style="text-align: left">2019/06〜2020/03</td>
+    </tr>
+    <tr>
+      <td style="text-align: left">雇用形態</td>
+      <td style="text-align: left">業務委託</td>
+    </tr>
+    <tr>
+      <td style="text-align: left">概要</td>
+      <td style="text-align: left">-</td>
+    </tr>
+    <tr>
+      <td style="text-align: left">プロジェクト規模</td>
+      <td style="text-align: left">-</td>
+    </tr>
+    <tr>
+      <td style="text-align: left">役割</td>
+      <td style="text-align: left">-</td>
+    </tr>
+    <tr>
+      <td style="text-align: left">プロジェクト詳細</td>
+      <td style="text-align: left">-</td>
+    </tr>
+  </tbody>
+</table>
 
 ### 株式会社TINK
 
-|              |                   |
-|:-------------|:------------------|
-| 期間       　    | 2018/12〜2019/05   |
-| 雇用形態　　　     | 業務委託        |
-| 概要   |        -        |
-| プロジェクト規模   |   -             |
-| 役割　　　　　     |    -            |
-| プロジェクト詳細　　|     -           |
+<table>
+  <tbody>
+    <tr>
+      <td style="text-align: left">期間</td>
+      <td style="text-align: left">2018/12〜2019/05</td>
+    </tr>
+    <tr>
+      <td style="text-align: left">雇用形態</td>
+      <td style="text-align: left">業務委託</td>
+    </tr>
+    <tr>
+      <td style="text-align: left">概要</td>
+      <td style="text-align: left">-</td>
+    </tr>
+    <tr>
+      <td style="text-align: left">プロジェクト規模</td>
+      <td style="text-align: left">-</td>
+    </tr>
+    <tr>
+      <td style="text-align: left">役割</td>
+      <td style="text-align: left">-</td>
+    </tr>
+    <tr>
+      <td style="text-align: left">プロジェクト詳細</td>
+      <td style="text-align: left">-</td>
+    </tr>
+  </tbody>
+</table>
 
 ### 株式会社ITプロパートナーズ(現: Hajimari)
 
-|              |                   |
-|:-------------|:------------------|
-| 期間       　    | 2018/04〜2019/09 |
-| 雇用形態　　　     | 正社員       |
-| 概要   |       -         |
-| プロジェクト規模   |       -         |
-| 役割　　　　　     |      -          |
-| プロジェクト詳細　　|     -           |
+<table>
+  <tbody>
+    <tr>
+      <td style="text-align: left">期間</td>
+      <td style="text-align: left">2018/04〜2019/09</td>
+    </tr>
+    <tr>
+      <td style="text-align: left">雇用形態</td>
+      <td style="text-align: left">正社員</td>
+    </tr>
+    <tr>
+      <td style="text-align: left">概要</td>
+      <td style="text-align: left">-</td>
+    </tr>
+    <tr>
+      <td style="text-align: left">プロジェクト規模</td>
+      <td style="text-align: left">-</td>
+    </tr>
+    <tr>
+      <td style="text-align: left">役割</td>
+      <td style="text-align: left">-</td>
+    </tr>
+    <tr>
+      <td style="text-align: left">プロジェクト詳細</td>
+      <td style="text-align: left">-</td>
+    </tr>
+  </tbody>
+</table>
 
 ### 株式会社Rosso
 
-|              |                   |
-|:-------------|:------------------|
-| 期間       　    | 2016/04〜2018/03 |
-| 雇用形態　　　     | 正社員         |
-| 概要   |     -           |
-| プロジェクト規模   |      -          |
-| 役割　　　　　     |     -           |
-| プロジェクト詳細　　|     -           |
+<table>
+  <tbody>
+    <tr>
+      <td style="text-align: left">期間</td>
+      <td style="text-align: left">2016/04〜2018/03</td>
+    </tr>
+    <tr>
+      <td style="text-align: left">雇用形態</td>
+      <td style="text-align: left">正社員</td>
+    </tr>
+    <tr>
+      <td style="text-align: left">概要</td>
+      <td style="text-align: left">-</td>
+    </tr>
+    <tr>
+      <td style="text-align: left">プロジェクト規模</td>
+      <td style="text-align: left">-</td>
+    </tr>
+    <tr>
+      <td style="text-align: left">役割</td>
+      <td style="text-align: left">-</td>
+    </tr>
+    <tr>
+      <td style="text-align: left">プロジェクト詳細</td>
+      <td style="text-align: left">-</td>
+    </tr>
+  </tbody>
+</table>
 
 ### アイエックスナレッジ株式会社
 
-|              |                   |
-|:-------------|:------------------|
-| 期間       　    | 2014/04〜2016/03 |
-| 雇用形態　　　     | 正社員         |
-| 概要   |                |
-| プロジェクト規模   |     -           |
-| 役割　　　　　     |    -            |
-| プロジェクト詳細　　|    -            |
+<table>
+  <tbody>
+    <tr>
+      <td style="text-align: left">期間</td>
+      <td style="text-align: left">2014/04〜2016/03</td>
+    </tr>
+    <tr>
+      <td style="text-align: left">雇用形態</td>
+      <td style="text-align: left">正社員</td>
+    </tr>
+    <tr>
+      <td style="text-align: left">概要</td>
+      <td style="text-align: left">-</td>
+    </tr>
+    <tr>
+      <td style="text-align: left">プロジェクト規模</td>
+      <td style="text-align: left">-</td>
+    </tr>
+    <tr>
+      <td style="text-align: left">役割</td>
+      <td style="text-align: left">-</td>
+    </tr>
+    <tr>
+      <td style="text-align: left">プロジェクト詳細</td>
+      <td style="text-align: left">-</td>
+    </tr>
+  </tbody>
+</table>
 
 ## 業務外活動
 
