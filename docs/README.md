@@ -84,6 +84,9 @@
   <img alt="VSCode" src="https://img.shields.io/badge/-Visual%20Studio%20Code-007ACC.svg?logo=visual-studio-code&style=flat-square">
   <img alt="Confluence" src="https://img.shields.io/badge/-Confluence-172B4D.svg?logo=Confluence&style=flat-square&logoColor=white">
   <img alt="Jira" src="https://img.shields.io/badge/-Jira-0052CA.svg?logo=Jira&style=flat-square&logoColor=white">
+  <img alt="Trello" src="https://img.shields.io/badge/-Trello-0052CC.svg?logo=Trello&style=flat-square&logoColor=white">
+  <img alt="Slack" src="https://img.shields.io/badge/-Slack-4A154B.svg?logo=Slack&style=flat-square&logoColor=white">
+  <img alt="Notion" src="https://img.shields.io/badge/-Notion-000000.svg?logo=Notion&style=flat-square&logoColor=white">
 </p>
 <br />
 
