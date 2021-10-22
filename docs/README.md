@@ -1,12 +1,26 @@
 # 職務経歴書
 ## 基本情報
 
-|              |                   |
-|:-------------|:------------------|
-| 名前        　| 米川 桂(Yonekawa Kei)|
-| 生年月日　　　| 1991/06/14   |
-| 居住地        | 東京都      |
-| 学歴　　　　　| 帝京大学理工学部情報科学科　通信教育課程　在学中 |
+<table>
+  <tbody>
+    <tr>
+      <td style="text-align: left">名前</td>
+      <td style="text-align: left">米川 桂(Yonekawa Kei)</td>
+    </tr>
+    <tr>
+      <td style="text-align: left">生年月日</td>
+      <td style="text-align: left">1991/06/14</td>
+    </tr>
+    <tr>
+      <td style="text-align: left">居住地</td>
+      <td style="text-align: left">東京都</td>
+    </tr>
+    <tr>
+      <td style="text-align: left">学歴</td>
+      <td style="text-align: left">帝京大学理工学部情報科学科　通信教育課程　在学中</td>
+    </tr>
+  </tbody>
+</table>
 
 ## 各種アカウント
 
