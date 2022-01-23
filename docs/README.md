@@ -52,6 +52,7 @@
   <img alt="PHP" src="https://img.shields.io/badge/-PHP-ccc.svg?logo=php&style=flat-square">
   <img alt="Ruby" src="https://img.shields.io/badge/-Ruby-CC342D?style=flat-square&logo=Ruby&logoColor=white" />
   <img alt="Java" src="https://img.shields.io/badge/-Java-007396?style=flat-square&logo=Java&logoColor=white" />
+  <img alt="TypeScript" src="https://img.shields.io/badge/-TypeScript-007ACC?style=flat-square&amp;logo=typescript&amp;logoColor=white">
   <img alt="JavaScript" src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=white" />
   <img alt="CSS" src="https://img.shields.io/badge/-CSS3-1572B6.svg?logo=css3&style=flat-square">
   <img alt="HTML" src="https://img.shields.io/badge/-HTML5-333.svg?logo=html5&style=flat-square">
@@ -63,6 +64,7 @@
   <img alt="Laravel" src="https://img.shields.io/badge/-Laravel-FF2D20.svg?logo=Laravel&style=flat-square&logoColor=white" />
   <img alt="Nuxtjs" src="https://img.shields.io/badge/-Nuxt.js-00DC82.svg?logo=Nuxt.js&style=flat-square&logoColor=white" />
   <img alt="Vue" src="https://img.shields.io/badge/-Vue.js-4FC08D?style=flat-square&logo=Vue.js&logoColor=white" />
+  <img alt="React" src="https://img.shields.io/badge/-React-45b8d8?style=flat-square&amp;logo=react&amp;logoColor=white">
   <img alt="SpringBoot" src="https://img.shields.io/badge/-SpringBoot-6DB33F.svg?logo=SpringBoot&style=flat-square&logoColor=white">
   <img alt="CakePHP" src="https://img.shields.io/badge/-CakePHP-D3DC43.svg?logo=cakephp&style=flat-square">
   <img alt="Symfony" src="https://img.shields.io/badge/-Symfony-000000.svg?logo=Symfony&style=flat-square&logoColor=white">
