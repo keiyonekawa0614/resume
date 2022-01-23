@@ -27,7 +27,6 @@
 
 <p>
   <a href="https://github.com/keiyonekawa0614" target="_blank"><img alt="Github" src="https://img.shields.io/badge/keiyonekawa0614-%2312100E.svg?&style=flat-square&logo=Github&logoColor=white" /></a>
-  <a href="https://twitter.com/keiuwk0614" target="_blank"><img alt="Twitter" src="https://img.shields.io/badge/@keiuwk0614-%231DA1F2.svg?&style=flat-square&logo=twitter&logoColor=white" /></a>
   <a href="https://qiita.com/yk0614" target="_blank"><img alt="Qiita" src="https://img.shields.io/badge/yk0614-55C500.svg?&style=flat-square&logo=qiita&logoColor=white" /></a>
   <a href="https://www.credly.com/users/kei-yonekawa/badges" target="_blank"><img alt="credly" src="https://img.shields.io/badge/-credly%20badges-orange?&style=flat-square" /></a>
   <a href="https://speakerdeck.com/keiyonekawa0614" target="_blank"><img alt="SpeakerDeck" src="https://img.shields.io/badge/keiyonekawa0614-009287.svg?&style=flat-square&logo=SpeakerDeck&logoColor=white" /></a>
