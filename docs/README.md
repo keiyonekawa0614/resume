@@ -112,15 +112,15 @@
     </tr>
     <tr>
       <td>プロジェクト規模</td>
-      <td>-</td>
+      <td>サーバサイド8名・PM2名・デザイナー1名</td>
     </tr>
     <tr>
       <td>役割</td>
-      <td>-</td>
+      <td>設計/コーディング</td>
     </tr>
     <tr>
       <td>プロジェクト詳細</td>
-      <td>-</td>
+      <td>Laravelで開発された「Canly」の開発・保守/運用。フロントからサーバサイドまで一貫して担当。主に新機能追加や不具合対応に従事。</td>
     </tr>
   </tbody>
 </table>
@@ -151,7 +151,7 @@
     </tr>
     <tr>
       <td>プロジェクト詳細</td>
-      <td>-</td>
+      <td>アプリ側はFlutter、APIはLaravelで開発。主にAPIの開発、メンバーのマネジメント、レビュー、クライアントとの調整に従事。</td>
     </tr>
   </tbody>
 </table>
@@ -185,7 +185,7 @@
     </tr>
     <tr>
       <td>プロジェクト詳細</td>
-      <td>-</td>
+      <td>PHP(Symfony)、Ruby(Sinatra)で開発された「LIFULL HOME'S」の新機能開発、保守/運用を担当。また、Typescript/React/Fastifyを使用した物件詳細ページのリニューアル案件にも携わる。</td>
     </tr>
   </tbody>
 </table>
@@ -216,7 +216,7 @@
     </tr>
     <tr>
       <td>プロジェクト詳細</td>
-      <td>-</td>
+      <td>Nuxt.jsで開発されたフロントの機能開発、クライアントとの調整、コードレビューを担当。</td>
     </tr>
   </tbody>
 </table>
@@ -247,7 +247,7 @@
     </tr>
     <tr>
       <td>プロジェクト詳細</td>
-      <td>-</td>
+      <td>Nuxt.js + Typescriptで新規に管理画面の開発に従事。</td>
     </tr>
   </tbody>
 </table>
@@ -281,7 +281,7 @@
     </tr>
     <tr>
       <td>プロジェクト詳細</td>
-      <td>-</td>
+      <td>受託開発では主にLaravelを使用して開発。自社サービスであるキャリア形成プラットフォーム「Graspy」はNuxt.js + Laravelで開発、設計及びコードレビューを担当。</td>
     </tr>
   </tbody>
 </table>
@@ -311,11 +311,11 @@
     </tr>
     <tr>
       <td>役割</td>
-      <td>技術選定 / 要件定義　/ 設計 / コーディング / 本番リリース作業</td>
+      <td>技術選定 / 要件定義 / 設計 / コーディング / 本番リリース作業</td>
     </tr>
     <tr>
       <td>プロジェクト詳細</td>
-      <td>-</td>
+      <td>Java8 + SpringBootを使ったWebアプリケーションの開発・保守・運用、またクライアントとの調整、本番リリース作業を担当。</td>
     </tr>
   </tbody>
 </table>
@@ -338,15 +338,15 @@
     </tr>
     <tr>
       <td>プロジェクト規模</td>
-      <td>-</td>
+      <td>80名程度</td>
     </tr>
     <tr>
       <td>役割</td>
-      <td>-</td>
+      <td>要件定義 / 設計 / コーディング / プロジェクト管理</td>
     </tr>
     <tr>
       <td>プロジェクト詳細</td>
-      <td>-</td>
+      <td>次期勘定系システムの基本設計、詳細設計、実装、保守・運用まで一貫して担当。顧客との調整やPJメンバーの管理などにも従事。</td>
     </tr>
   </tbody>
 </table>
@@ -354,7 +354,14 @@
 <br />
 
 ## 業務外活動
+- 中学生の時に通っていた学習塾のホームページの開発(https://arai-juku.net/)
+  - Nuxt.js + Contentful + Netlifyで構成
 
 ## 資格
-
-## 意欲・興味
+- 2016/12 OCJP JavaSE8 Silver
+- 2019/12 OCJP JavaSE8 Gold
+- 2020/01 PHP7技術者認定試験 初級
+- 2020/12 AWS Certified Cloud Practitioner
+- 2021/02 AWS Certified Solutions Architect - Associate
+- 2021/10 ITパスポート
+- 2021/10 英検準2級
