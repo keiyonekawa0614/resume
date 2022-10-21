@@ -354,8 +354,9 @@
 <br />
 
 ## 業務外活動
-- 中学生の時に通っていた学習塾のホームページの開発(https://arai-juku.net/)
+- 中学生の時に通っていた学習塾のホームページの開発
   - Nuxt.js + Contentful + Netlifyで構成
+  - <a href="https://arai-juku.net/" target="_blank">https://arai-juku.net/</a>
 
 ## 資格
 - 2016/12 OCJP JavaSE8 Silver
