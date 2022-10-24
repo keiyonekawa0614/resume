@@ -98,7 +98,7 @@
 <table>
   <tbody>
     <tr>
-      <td>期間</td>
+      <td style="width: 60px;">期間</td>
       <td>2019/10〜現在</td>
     </tr>
     <tr>
@@ -131,7 +131,7 @@
 <table>
   <tbody>
     <tr>
-      <td>期間</td>
+      <td style="width: 60px;">期間</td>
       <td>2018/04〜2019/09</td>
     </tr>
     <tr>
@@ -164,7 +164,7 @@
 <table>
   <tbody>
     <tr>
-      <td>期間</td>
+      <td style="width: 60px;">期間</td>
       <td>2016/04〜2018/03</td>
     </tr>
     <tr>
@@ -230,7 +230,7 @@
 <table>
   <tbody>
     <tr>
-      <td>期間</td>
+      <td style="width: 60px;">期間</td>
       <td>2021/10〜現在</td>
     </tr>
     <tr>
@@ -260,7 +260,7 @@
 <table>
   <tbody>
     <tr>
-      <td>期間</td>
+      <td style="width: 60px;">期間</td>
       <td>2020/06〜2021/09</td>
     </tr>
     <tr>
@@ -290,7 +290,7 @@
 <table>
   <tbody>
     <tr>
-      <td>期間</td>
+      <td style="width: 60px;">期間</td>
       <td>2019/06〜2020/03</td>
     </tr>
     <tr>
@@ -320,7 +320,7 @@
 <table>
   <tbody>
     <tr>
-      <td>期間</td>
+      <td style="width: 60px;">期間</td>
       <td>2018/12〜2019/05</td>
     </tr>
     <tr>
