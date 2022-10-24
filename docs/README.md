@@ -5,7 +5,7 @@
   <tbody>
     <tr>
       <td>名前</td>
-      <td>米川 桂/YONEKAWA kei</td>
+      <td>米川 桂 / YONEKAWA kei</td>
     </tr>
     <tr>
       <td>生年月日</td>
@@ -197,7 +197,7 @@
 <table>
   <tbody>
     <tr>
-      <td>期間</td>
+      <td style="width: 60px;">期間</td>
       <td>2014/04〜2016/03</td>
     </tr>
     <tr>
