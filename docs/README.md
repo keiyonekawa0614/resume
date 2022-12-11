@@ -175,8 +175,13 @@
       <td>要件定義 / 設計 / タスク管理 / コーディング / コードレビュー / 本番リリース作業</td>
     </tr>
     <tr>
-      <td>詳細</td>
-      <td>受託開発では主にLaravelを使用して開発。自社サービスであるキャリア形成プラットフォーム「Graspy」はNuxt.js + Laravelで開発、設計及びコードレビューを担当。</td>
+      <td>概要</td>
+      <td>フロントエンドは Nuxt.js(Vue.js)、 サーバサイドは Laravel を用いて転職サイトの新規立ち上げからリリース、保守/運用を担当。
+        <details>
+          <summary>詳細</summary>
+          aaaa
+        </details>
+      </td>
     </tr>
   </tbody>
 </table>
