@@ -93,13 +93,44 @@
 
 
 ## 職務経歴詳細
+### 弥生株式会社
+<table>
+  <tbody>
+    <tr>
+      <td style="width: 60px;">期間</td>
+      <td>2023/04~現在</td>
+    </tr>
+    <tr>
+      <td>雇用形態</td>
+      <td>正社員</td>
+    </tr>
+    <tr>
+      <td>概要</td>
+      <td>次世代プロダクト開発 インボイスチーム所属<br>スマート証憑管理の開発</td>
+    </tr>
+    <tr>
+      <td>規模</td>
+      <td>-
+      </td>
+    </tr>
+    <tr>
+      <td>役割</td>
+      <td>要件定義 / 設計 / 実装 / コードレビュー</td>
+    </tr>
+    <tr>
+      <td>詳細</td>
+      <td>-
+      </td>
+    </tr>
+  </tbody>
+</table>
 
 ### 株式会社LIFULL
 <table>
   <tbody>
     <tr>
       <td style="width: 60px;">期間</td>
-      <td>2019/10〜現在</td>
+      <td>2019/10〜2023/03</td>
     </tr>
     <tr>
       <td>雇用形態</td>
@@ -121,7 +152,7 @@
       <td>設計 / 実装 / コードレビュー</td>
     </tr>
     <tr>
-      <td>概要</td>
+      <td>詳細</td>
       <td>PHP(Symfony)、Ruby(Sinatra)で開発された「LIFULL HOME'S」の新機能開発、保守/運用を担当。
         <details>
           <summary>詳細</summary>
@@ -257,7 +288,7 @@
   <tbody>
     <tr>
       <td style="width: 60px;">期間</td>
-      <td>2021/10〜現在</td>
+      <td>2021/10〜2023/01</td>
     </tr>
     <tr>
       <td>雇用形態</td>
