@@ -102,7 +102,7 @@
     </tr>
     <tr>
       <td>概要</td>
-      <td>次世代プロダクト開発 インボイスチーム所属<br>スマート証憑管理の開発</td>
+      <td>証憑管理機能の開発・保守運用</td>
     </tr>
     <tr>
       <td>規模</td>
@@ -400,11 +400,6 @@
 </table>
 <br />
 <br />
-
-## 業務外活動
-- 中学生の時に通っていた学習塾のホームページの開発
-  - Nuxt.js + Contentful + Netlifyで構成
-  - <a href="https://arai-juku.net/" target="_blank">https://arai-juku.net/</a>
 
 ## 資格
 - 2016/12 OCJP JavaSE8 Silver
