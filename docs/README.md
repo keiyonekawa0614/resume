@@ -13,7 +13,7 @@
     </tr>
     <tr>
       <td>居住地</td>
-      <td>埼玉県</td>
+      <td>東京都</td>
     </tr>
   </tbody>
 </table>
